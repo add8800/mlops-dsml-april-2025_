@@ -1,5 +1,5 @@
 
-def solve_tsp_e1(distance_matrix):
+def solve_tsp_ex1(distance_matrix):
 	"""
 	Dummy function for solving the Traveling Salesman Problem.
 	This function should eventually implement an efficient TSP algorithm.
