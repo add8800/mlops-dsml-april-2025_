@@ -27,7 +27,7 @@ if __name__ == "__main__":
 		[15, 20, 0]
 	]
 
-	route = solve_tsp_e1(dummy_distance_matrix)
+	route = solve_tsp_ex1(dummy_distance_matrix)
 	print("Dummy TSP route:", route)
 
 
